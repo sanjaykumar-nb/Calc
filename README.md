@@ -146,7 +146,9 @@ body {
 ```
 
 ## OUTPUT:
-![alt text](<calc/static/Screenshot 2024-04-28 173333.png>)
-![alt text](<calc/static/Screenshot 2024-04-28 173349.png>)
+![Screenshot 2024-04-28 173333](https://github.com/sanjaykumar-nb/Calc/assets/154039979/86a89d28-a03f-4044-98b1-2d53089ff6ae)
+
+![Screenshot 2024-04-28 173349](https://github.com/sanjaykumar-nb/Calc/assets/154039979/9f8f56ef-f410-4da0-baea-8eed20b57dfd)
+
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
